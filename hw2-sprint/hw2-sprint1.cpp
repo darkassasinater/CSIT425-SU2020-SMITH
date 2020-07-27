@@ -38,8 +38,9 @@ int main()
    system("pause");
    return 0;
 }
-
+/*
 void combineArray(int Array1[], int Array2[])
 {
 
 }
+*/
